@@ -19,7 +19,14 @@ import router from "./router"
 // logger 
 import Logger from "../config/logger"
 
+// middware
+import morganMid from "./middleware/morganMid"
+
+app.use(morganMid)
+
 app.use("/api/", router) // prefixo de URL
+
+
 
 // porta do app
 const porta = config.get<number>("porta")
