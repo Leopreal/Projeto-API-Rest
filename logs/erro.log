@@ -1,2 +1,11 @@
 2024-07-30 00:01:47 - [31merror[39m - [31merro[39m
 2024-07-30 00:01:47 - [31merror[39m - [31mError: querySrv ENOTFOUND _mongodb._tcp.cluster0.skapd78.mongodb1.net[39m
+2024-08-01 10:43:48 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "66aa3f6ff617e7d19ec67a8" (type string) at path "_id" for model "Filme"[39m
+2024-08-01 10:44:30 - [31merror[39m - [31mErro no sistema: filme.delete is not a function[39m
+2024-08-01 10:44:32 - [31merror[39m - [31mErro no sistema: filme.delete is not a function[39m
+2024-08-01 10:45:14 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "66aa3f6ff617e7d19ec67a8" (type string) at path "_id" for model "Filme"[39m
+2024-08-01 10:45:29 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "66aa3f6ff617e7d19ec67a8" (type string) at path "_id" for model "Filme"[39m
+2024-08-01 10:49:53 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "66aa37fa58f4a37ff230b08" (type string) at path "_id" for model "Filme"[39m
+2024-08-01 10:50:50 - [31merror[39m - [31mErro no sistema: filme.delete is not a function[39m
+2024-08-01 10:51:10 - [31merror[39m - [31mErro no sistema: filme.delete is not a function[39m
+2024-08-01 10:51:23 - [31merror[39m - [31mErro no sistema: filme.delete is not a function[39m
