@@ -1,5 +1,5 @@
 import { Router, Request, Response } from "express";
-import { AcharFilmePorId, AcharTodoOsFilmes, criarFilme, RemoverFilme } from "./Controllers/ControleFilme";
+import { AcharFilmePorId, AcharTodoOsFilmes, AtaulizarFilme, criarFilme, RemoverFilme } from "./Controllers/ControleFilme";
 
 // validate
 import { validacao } from "./middleware/Controlar";
@@ -14,3 +14,4 @@ export default router.get("/teste", (requisicao: Request, resposta: Response) =>
 .get("/filme/:id", AcharFilmePorId) // FILTRAR POR ID
 .get("/filme", AcharTodoOsFilmes)  // MOSTRAR TODOS OS FILMES
 .delete("/filme/:id", RemoverFilme) // REMOVER FILME
+.patch("/filme/:id", ValidacaoDoFilme(), validacao, AtaulizarFilme) // MODIFICAR FILME

@@ -535,3 +535,79 @@
 2024-08-01 10:53:44 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
 2024-08-01 10:53:46 - [32minfo[39m - [32mconectou ao banco![39m
 2024-08-01 10:53:46 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 10:53:49 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 10:53:49 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 10:53:57 - [35mhttp[39m - [35mDELETE /api//filme/66aa37fa58f4a37ff230b086 200 36 - 61.522 ms[39m
+[35m[39m
+2024-08-01 10:54:34 - [35mhttp[39m - [35mDELETE /api//filme/66aa37b058f4a37ff230b082 200 36 - 47.863 ms[39m
+[35m[39m
+2024-08-01 10:54:55 - [35mhttp[39m - [35mDELETE /api//filme/66aa37c658f4a37ff230b084 200 36 - 48.083 ms[39m
+[35m[39m
+2024-08-01 10:55:15 - [35mhttp[39m - [35mDELETE /api//filme/66ab85fd8ca402632fc777a6 200 36 - 48.383 ms[39m
+[35m[39m
+2024-08-01 10:55:36 - [35mhttp[39m - [35mDELETE /api//filme/66aa4036fc40a523fd174f9e 200 36 - 49.092 ms[39m
+[35m[39m
+2024-08-01 10:55:56 - [35mhttp[39m - [35mDELETE /api//filme/66aa401afc40a523fd174f9c 200 36 - 49.903 ms[39m
+[35m[39m
+2024-08-01 10:56:21 - [35mhttp[39m - [35mDELETE /api//filme/66aa3f6ff617e7d19ec67a80 200 36 - 47.826 ms[39m
+[35m[39m
+2024-08-01 10:56:41 - [35mhttp[39m - [35mDELETE /api//filme/66aa3f2d9281fcee1d2e1d83 200 36 - 48.367 ms[39m
+[35m[39m
+2024-08-01 10:57:01 - [35mhttp[39m - [35mDELETE /api//filme/66aa3e31d5f84923e760a787 200 36 - 48.709 ms[39m
+[35m[39m
+2024-08-01 10:57:50 - [35mhttp[39m - [35mPOST /api//filme 201 649 - 44.758 ms[39m
+[35m[39m
+2024-08-01 23:41:08 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:41:08 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:42:51 - [35mhttp[39m - [35mDELETE /api//filme/66aa3e31d5f84923e760a787 404 33 - 28.581 ms[39m
+[35m[39m
+2024-08-01 23:43:02 - [35mhttp[39m - [35mGET /api//filme 200 974 - 26.199 ms[39m
+[35m[39m
+2024-08-01 23:43:35 - [35mhttp[39m - [35mPATCH /api/filme/66aa38a158f4a37ff230b088 - - - - ms[39m
+[35m[39m
+2024-08-01 23:43:43 - [35mhttp[39m - [35mPATCH /api/filme/66aa3e31d5f84923e760a787 404 33 - 21.206 ms[39m
+[35m[39m
+2024-08-01 23:44:47 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:44:47 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:44:52 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:44:52 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:44:55 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:44:55 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:44:57 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:44:57 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:45:00 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:45:00 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:45:02 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:45:02 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:45:05 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:45:05 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:45:08 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:45:08 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:45:11 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:45:11 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:45:37 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:45:37 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:45:45 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:45:45 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:45:57 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:45:57 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:46:02 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:46:02 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:46:10 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:46:10 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:46:13 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:46:13 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:48:09 - [35mhttp[39m - [35mPATCH /api/filme/66ab945e5a491e6d4e297d71 200 532 - 61.822 ms[39m
+[35m[39m
+2024-08-01 23:50:47 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:50:47 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:53:28 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:53:28 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:53:30 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:53:30 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:53:33 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:53:33 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:54:23 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:54:23 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m
+2024-08-01 23:54:26 - [32minfo[39m - [32mconectou ao banco![39m
+2024-08-01 23:54:26 - [32minfo[39m - [32maplicação funcionando na porta 5000[39m

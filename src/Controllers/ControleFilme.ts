@@ -76,3 +76,25 @@ export async function RemoverFilme(requisicao: Request, resposta: Response) {
    }
    
 }
+
+// ----------------------------- ATUALIZANDO FILMES ------------------------------
+
+export async function AtaulizarFilme(requisicao: Request, resposta: Response) {
+   try {
+      const id = requisicao.params.id
+      const dados = requisicao.body
+      const filme = await FilmeModel.findById(id)
+
+      if(!filme) {
+         return resposta.status(404).json({error: "este filme nao existe"})
+      }
+
+      await FilmeModel.updateOne({_id: id}, dados)
+
+      return resposta.status(200).json(dados)
+
+   } catch (error: any) {
+      Logger.error(`Erro no sistema: ${error.message}`)
+      resposta.status(500).json({error: "tente novamente mais tarde!"})
+   }
+}
